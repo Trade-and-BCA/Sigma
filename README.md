@@ -1,2 +1,3 @@
 # Sigma
-Learn Git &amp; Github
+Learn Git &amp; Github.
+
